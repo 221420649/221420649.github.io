@@ -66,7 +66,7 @@ Fairbairn College (2016 – 2020)
 ---
 
 ## 🎥 Mock Interview Video
-(Add your video link here)
+[Click here to watch my mock interview video] (https://drive.google.com/file/d/1nffodXaLF26i8mFIEPz5shly7-EsyFm8/view?usp=sharing)
 
 ---
 

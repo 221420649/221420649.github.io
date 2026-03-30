@@ -72,7 +72,7 @@ Fairbairn College (2016 – 2020)
 ---
 
 ## 🧠 Reflection
-I learned how to use GitHub and Markdown to present my work professionally by creating this GitHub portfolio. I became more successful at clearly organizing material and became more comfortable with version control. I also learned how to share my work online by building a GitHub Pages webpage. Understanding how to format my CV using Markdown was one of the small challenges, but I was able to get beyond it with practice.
+I learned how to use GitHub and Markdown to present my work professionally by creating this GitHub portfolio. I became more successful at clearly organizing material and became more comfortable with version control. I also learned how to share my work online by building a GitHub Pages webpage. Understanding how to format my CV using Markdown was one of the small challenges, but I was able to get beyond it with practice. I gained problem-solving skills while establishing GitHub Pages and connecting my video. 
 
 ---
 

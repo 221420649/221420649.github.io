@@ -75,6 +75,6 @@ I learned how to use GitHub and Markdown to present my work professionally by cr
 ---
 
 ## 📌 References
-Available on request
+Available if requested
 - Dominee Talitha Conradie – NG Gemeente Parow-Noord  
 - Cassady Gertse – NG Gemeente Parow-Noord

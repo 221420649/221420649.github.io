@@ -3,7 +3,7 @@
 📍 Cape Town, South Africa  
 📧 221420649@mycput.ac.za  
 📱 066 255 8035 / 076 260 7207  
-💻[My GitHub Profile] https://github.com/221420649  
+💻[My GitHub Profile]https://github.com/221420649  
 
 ---
 
@@ -66,8 +66,7 @@ Fairbairn College (2016 – 2020)
 ---
 
 ## 🎥 Mock Interview Video
-[Click here to watch my mock interview video] 
-(https://drive.google.com/file/d/1nffodXaLF26i8mFIEPz5shly7-EsyFm8/view?usp=sharing)
+[Click here to watch my mock interview video](https://drive.google.com/file/d/1nffodXaLF26i8mFIEPz5shly7-EsyFm8/view?usp=sharing)
 
 ---
 

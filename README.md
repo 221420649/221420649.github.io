@@ -1,5 +1,4 @@
-# Angelia Van Der Westhuizen
-**Application Development Student**
+# Angelia Van Der Westhuizen – Application Development Student
 
 📍 Cape Town, South Africa  
 📧 221420649@mycput.ac.za  

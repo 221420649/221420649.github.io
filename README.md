@@ -71,8 +71,7 @@ Fairbairn College (2016 – 2020)
 ---
 
 ## 🧠 Reflection
-Creating this GitHub portfolio helped me understand how to use GitHub and Markdown to present my work professionally. I improved my ability to organise information clearly and gained confidence in using version control.
-I also learned how to create a GitHub Pages website and share my work online. One challenge I faced was understanding how to structure my CV using Markdown, but I was able to overcome it through practice.
+I learned how to use GitHub and Markdown to present my work professionally by creating this GitHub portfolio. I became more successful at clearly organizing material and became more comfortable with version control. I also learned how to share my work online by building a GitHub Pages webpage. Understanding how to format my CV using Markdown was one of the small challenges, but I was able to get beyond it with practice.
 
 ---
 

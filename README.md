@@ -3,7 +3,7 @@
 📍 Cape Town, South Africa  
 📧 221420649@mycput.ac.za  
 📱 066 255 8035 / 076 260 7207  
-💻 https://github.com/221420649  
+💻[My GitHub Profile] https://github.com/221420649  
 
 ---
 

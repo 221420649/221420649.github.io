@@ -1,9 +1,9 @@
 # Angelia Van Der Westhuizen
 
 📍 Cape Town, South Africa  
-📧 22142049@mycput.ac.za  
+📧 221420649@mycput.ac.za  
 📱 066 255 8035 / 076 260 7207  
-💻 https://github.com/22142049  
+💻 https://github.com/221420649  
 
 ---
 

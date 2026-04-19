@@ -72,7 +72,7 @@ I am a motivated Information and Communication Technology student seeking opport
 [Click here to watch my mock interview video](https://drive.google.com/file/d/1nffodXaLF26i8mFIEPz5shly7-EsyFm8/view?usp=sharing)
 ---
 
-## 🧠 Reflection 1: Coding in Markdown (STAR)
+## 🧠 Reflection 1: Coding in Markdown 
 
 **Situation:** I was required to create a digital portfolio using GitHub for my assignment.  
 **Task:** I needed to learn how to use Markdown to structure my CV and portfolio content.  
@@ -81,7 +81,7 @@ I am a motivated Information and Communication Technology student seeking opport
 
 ---
 
-## 🧠 Reflection 2: Mock Interview Video Experience (STAR)
+## 🧠 Reflection 2: Mock Interview Video Experience 
 
 **Situation:** I had to record a mock interview video and I had to add it in as part of my portfolio.  
 **Task:** My task was to select questions that I felt comfortable answering, prepare professional answers, and present myself confidently in the video.  
@@ -90,7 +90,7 @@ I am a motivated Information and Communication Technology student seeking opport
 
 ---
 
-## 🧠 Reflection 3: Using GitHub Pages (STAR)
+## 🧠 Reflection 3: Using GitHub Pages 
 
 **Situation:** I needed to publish my portfolio online using GitHub Pages.  
 **Task:** My task was to show my repository as a live website.  

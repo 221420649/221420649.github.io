@@ -76,15 +76,15 @@ I am a motivated Information and Communication Technology student seeking opport
 
 **Situation:** I was required to create a digital portfolio using GitHub for my assignment.  
 **Task:** I needed to learn how to use Markdown to structure my CV and portfolio content.  
-**Action:** I practiced using headings, bullet points, and formatting tools in Markdown to organise my work clearly and professionally.  
+**Action:** I worked on organizing my work in a clear and professional manner using Markdown's formatting features, headings, and bullet points.  
 **Result:** I successfully created a well-structured portfolio and gained a valuable skill used in software development.
 
 ---
 
 ## 🧠 Reflection 2: Mock Interview Video Experience (STAR)
 
-**Situation:** I had to record a mock interview video as part of my portfolio.  
-**Task:** I needed to prepare answers to common interview questions and present myself professionally.  
+**Situation:** I had to record a mock interview video and I had to add it in as part of my portfolio.  
+**Task:** My task was to select questions that I felt comfortable answering, prepare professional answers, and present myself confidently in the video.  
 **Action:** I practiced answering questions, improved my communication, and recorded multiple takes to ensure clarity and confidence.  
 **Result:** I improved my confidence, communication skills, and understanding of interview expectations.
 
@@ -93,9 +93,9 @@ I am a motivated Information and Communication Technology student seeking opport
 ## 🧠 Reflection 3: Using GitHub Pages (STAR)
 
 **Situation:** I needed to publish my portfolio online using GitHub Pages.  
-**Task:** My task was to deploy my repository as a live website.  
-**Action:** I configured GitHub Pages in the repository settings and ensured my portfolio displayed correctly online.  
-**Result:** I successfully published my portfolio and learned how to deploy web-based projects.
+**Task:** My task was to show my repository as a live website.  
+**Action:** I made sure my portfolio appeared properly online and set up GitHub Pages in the repository settings.  
+**Result:** I successfully published my portfolio and learned how to set up web-based projects.
 
 ---
 

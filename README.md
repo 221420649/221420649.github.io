@@ -16,7 +16,7 @@ I am a student at Cape Peninsula University of Technology studying Information a
 ---
 
 ### 🎯 Career Objective
-I am a motivated Information and Communication Technology student seeking opportunities within the IT field where I can apply my technical skills, continue learning, and grow professionally. I aim to contribute to innovative projects while developing my expertise in software development and problem-solving.
+I am a motivated and dedicated Information and Communication Technology student seeking an entry-level opportunity within the IT field where I can apply my technical skills and continue to grow professionally. I am eager to gain practical experience, contribute to innovative projects, and continuously develop my knowledge in information technology systems and problem-solving while adding value to a professional team environment.
 
 ---
 

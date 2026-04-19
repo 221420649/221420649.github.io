@@ -1,80 +1,103 @@
- **Application Development Student**
+# 🌐 Digital Portfolio
 
-📍 Cape Town, South Africa  
-📧 221420649@mycput.ac.za  
-📱 066 255 8035 / 076 260 7207  
-💻 [My GitHub Profile](https://github.com/221420649)
----
-
-## 👩‍💻 About Me
-I am a third-year Application Development student at the Cape Peninsula University of Technology. I am a hardworking, motivated and adaptable individual who can work both independently and in a team. I am eager to grow my technical skills and gain real-world experience in software development.
+## 👤 About Me
+I am a student at Cape Peninsula University of Technology studying Information and Communication Technology. This portfolio showcases my work readiness training, CV, mock interview, and reflections.
 
 ---
 
-## 🎓 Education
+## 📄 CV
 
-### Diploma in ICT: Application Development  
-Cape Peninsula University of Technology (2022 – Present)
-
-### Higher Certificate in ICT  
-Northlink College (2021)
-
-### National Senior Certificate  
-Fairbairn College (2016 – 2020)
+### 👤 Personal Details
+- **Name:** Angelia Van der Westhuizen  
+- **Email:** 221420649@mycput.ac.za  
+- **Phone:** 066 255 8035 / 076 260 7207  
+- **Location:** 7 Maskam Crescent, Monte Vista, 7460  
 
 ---
 
-## 💻 Technical Skills
-- Java & Object-Oriented Programming  
-- SQL & Apache Derby Database  
-- Java Swing & GUI Development  
-- File Handling & Exception Handling  
+### 🎯 Career Objective
+I am a motivated Information and Communication Technology student seeking opportunities within the IT field where I can apply my technical skills, continue learning, and grow professionally. I aim to contribute to innovative projects while developing my expertise in software development and problem-solving.
+
+---
+
+### 🎓 Education
+- Diploma in Information and Communication Technology: Applications Development – CPUT (2022 – Present)  
+- Higher Certificate in ICT – Northlink College (2021)  
+- National Senior Certificate – Fairbairn College (2016 – 2020)  
+
+---
+
+### 💻 Technical Skills
+- Java  
+- SQL  
 - Git & GitHub  
-- IntelliJ IDEA & NetBeans  
+- NetBeans & IntelliJ  
+- Java Swing  
+- File Handling & Exception Handling  
+- Apache Derby Database  
 - Microsoft Office  
 
 ---
 
-## 💼 Work Experience
+### 💼 Work Experience
 
-### Hostess – John Dory’s (Nov 2022 – Jan 2023)
-- Welcomed and seated guests professionally  
-- Managed seating and coordinated with staff  
-- Handled customer inquiries and complaints  
-- Worked in a fast-paced environment  
+**Hostess – John Dory’s (2022–2023)**  
+- Managed seating and customer service  
+- Handled customer queries professionally  
 
-### Babysitter – Monte Vista (2016 – 2023)
-- Managed children’s daily routines  
-- Prepared meals and supervised activities  
-- Taught responsibility and life skills  
+**Babysitter (2016–2023)**  
+- Supervised children and daily activities  
+- Prepared meals and taught life skills  
 
-### Waitress & Hostess – Texas Spur (Mar 2021 – July 2021)
-- Served customers and provided menu guidance  
-- Prepared tables and ensured service quality  
-- Communicated orders with kitchen staff  
+**Waitress & Hostess – Texas Spur (2021)**  
+- Served customers and handled orders  
+- Maintained a clean and organised environment  
 
 ---
 
-## ⭐ Strengths
-- Communication  
-- Teamwork  
-- Problem-solving  
-- Adaptability  
-- Time management  
+### 📞 References
+- **Dominee Talitha Conradie**  
+  NG Gemeente Parow-Noord  
+  Email: ds.tconradie@gmail.com  
+  Phone: 081 725 8172  
+
+- **Cassady Gertse**  
+  NG Gemeente Parow-Noord  
+  Email: cassygee2003@gmail.com  
+  Phone: 074 954 2943  
 
 ---
 
 ## 🎥 Mock Interview Video
 [Click here to watch my mock interview video](https://drive.google.com/file/d/1nffodXaLF26i8mFIEPz5shly7-EsyFm8/view?usp=sharing)
+---
+
+## 🧠 Reflection 1: Coding in Markdown (STAR)
+
+**Situation:** I was required to create a digital portfolio using GitHub for my assignment.  
+**Task:** I needed to learn how to use Markdown to structure my CV and portfolio content.  
+**Action:** I practiced using headings, bullet points, and formatting tools in Markdown to organise my work clearly and professionally.  
+**Result:** I successfully created a well-structured portfolio and gained a valuable skill used in software development.
 
 ---
 
-## 🧠 Reflection
-I learned how to use GitHub and Markdown to present my work professionally by creating this GitHub portfolio. I became more successful at clearly organizing material and became more comfortable with version control. I also learned how to share my work online by building a GitHub Pages webpage. Understanding how to format my CV using Markdown was one of the small challenges, but I was able to get beyond it with practice. I gained problem-solving skills while establishing GitHub Pages and connecting my video. 
+## 🧠 Reflection 2: Mock Interview Video Experience (STAR)
+
+**Situation:** I had to record a mock interview video as part of my portfolio.  
+**Task:** I needed to prepare answers to common interview questions and present myself professionally.  
+**Action:** I practiced answering questions, improved my communication, and recorded multiple takes to ensure clarity and confidence.  
+**Result:** I improved my confidence, communication skills, and understanding of interview expectations.
 
 ---
 
-## 📌 References
-Available if requested
-- Dominee Talitha Conradie – NG Gemeente Parow-Noord  
-- Cassady Gertse – NG Gemeente Parow-Noord
+## 🧠 Reflection 3: Using GitHub Pages (STAR)
+
+**Situation:** I needed to publish my portfolio online using GitHub Pages.  
+**Task:** My task was to deploy my repository as a live website.  
+**Action:** I configured GitHub Pages in the repository settings and ensured my portfolio displayed correctly online.  
+**Result:** I successfully published my portfolio and learned how to deploy web-based projects.
+
+---
+
+## 🔗 Live Portfolio
+https://221420649.github.io/

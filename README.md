@@ -1,7 +1,7 @@
 # 🌐 Digital Portfolio
 
 ## 👤 About Me
-I am a student at Cape Peninsula University of Technology studying Information and Communication Technology. This portfolio showcases my work readiness training, CV, mock interview, and reflections.
+I am an Information and Communication Technology student at the Cape Peninsula University of Technology. This digital portfolio showcases my skills, experience, and professional development, including my CV, mock interview, and reflections on my learning journey.
 
 ---
 
